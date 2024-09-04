@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std;//to avoid repeating the use std::
 
 // function to get input from the user
 int getInput(std::string prompt ) {
